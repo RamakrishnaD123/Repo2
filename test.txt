@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 8484-7DCF
+
+ Directory of C:\Users\lenovo\Desktop\MyProject
+
+01/07/2017  10:23 PM    <DIR>          .
+01/07/2017  10:23 PM    <DIR>          ..
+01/07/2017  10:23 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  50,876,436,480 bytes free
